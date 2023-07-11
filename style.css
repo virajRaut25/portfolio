@@ -618,19 +618,19 @@ footer > a {
 }
 
 .linked-in {
-  content: url(/linkedin.svg);
+  content: url(./linkedin.svg);
 }
 
 .youtube {
-  content: url(/youtube.svg);
+  content: url(./youtube.svg);
 }
 
 .git-hub {
-  content: url(/github.svg);
+  content: url(./github.svg);
 }
 
 .twitter {
-  content: url(/twitter.svg);
+  content: url(./twitter.svg);
 }
 
 .footnote {
