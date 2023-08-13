@@ -308,9 +308,9 @@ nav.fixed.desk {
 /* Skill Section */
 
 #skills {
-  height: 118vh;
   width: 100%;
-  margin-top: 14rem;
+  margin-top: 12rem;
+  margin-bottom: 8rem;
 }
 
 #skills .terminal {
@@ -466,10 +466,10 @@ nav.fixed.desk {
 /* Contact Section */
 
 #contact {
-  height: 100vh;
   background: #252934;
   color: #fff;
   margin-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 #contact .header {
@@ -730,7 +730,7 @@ footer > a {
   .text-about {
     font-size: 0.8rem;
   }
-  .social-icon{
+  .social-icon {
     margin: 0px 6px;
   }
 }
